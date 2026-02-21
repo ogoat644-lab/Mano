@@ -1,0 +1,7 @@
+{
+  "name": "Ignite History",
+  "description": "An AI-powered companion for exploring world heritage sites, historical facts, and travel tips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
